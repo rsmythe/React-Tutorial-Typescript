@@ -22,11 +22,11 @@
     "comment",
     "example"
   ],
-  "author": "petehunt",
+  "author": "rsmythe",
   "bugs": {
-    "url": "https://github.com/reactjs/react-tutorial/issues"
+    "url": "https://github.com/rsmythe/React-Tutorial-Typescript/Issues"
   },
-  "homepage": "https://github.com/reactjs/react-tutorial",
+  "homepage": "https://github.com/rsmythe/React-Tutorial-Typescript",
   "engines": {
     "node": "0.12.x"
   }
