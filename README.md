@@ -1,4 +1,4 @@
-# React Tutorial
+#Typescript React Tutorial
 
 This is a Typescript translation of the React comment box example from [the React tutorial](http://facebook.github.io/react/docs/tutorial.html).
 
