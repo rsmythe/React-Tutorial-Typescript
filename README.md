@@ -1,3 +1,5 @@
+Developer's Note: I originally created this just toying around to see how React and Typescript play together.  I tried to tidy it up but some parts of the code may still be a bit hacky.
+
 #Typescript React Tutorial
 
 This is a Typescript translation of the React comment box example from [the React tutorial](http://facebook.github.io/react/docs/tutorial.html).
