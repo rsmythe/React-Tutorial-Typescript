@@ -1,4 +1,4 @@
-Developer's Note: I originally created this just toying around to see how React and Typescript play together.  I tried to tidy it up but some parts of the code may still be a bit hacky.
+Developer's Note: I originally created this simply to toy around and see how React and Typescript play together.  Since I thought other people might find it helpful I tried to tidy it up but some parts of the code may still be a bit hacky.
 
 #Typescript React Tutorial
 
